@@ -1,0 +1,60 @@
+
+body {
+    background-color: #323232;
+}
+
+.square {
+    width: 30%;
+    background: purple;
+    padding-bottom: 30%;
+    float: left;
+    margin: 1.66%;
+    border-radius: 25px;
+}
+
+#containerCenter {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+#header {
+    color: white;
+    background-color: #5291ba;
+    margin: 0px;
+    padding: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 100;
+    font-size: 2.2rem;
+}
+
+#message {
+    border: none;
+    background-color: white;
+    height: 30px;
+    font-weight: 600;
+    color: #5291ba;
+    padding: 0 140px 0 140px;
+}
+
+#stripe {
+    background-color: white;
+    height: 30px;
+    text-align: center;
+    margin: 0 0 15px 0;
+}
+
+.divBarButtons {
+    border: none;
+    background-color: white;
+    height: 30px;
+    font-weight: 600;
+    color: #5291ba;
+    outline: none !important;
+}
+
+#colorDisplay {
+    font-size: 3.5rem;
+    font-weight: 400;
+}
+
